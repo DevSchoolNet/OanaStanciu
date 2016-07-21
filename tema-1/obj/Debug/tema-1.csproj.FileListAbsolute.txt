@@ -1,0 +1,5 @@
+D:\ing\tema-1\tema-1\bin\tema-1.dll
+D:\ing\tema-1\tema-1\bin\tema-1.pdb
+D:\ing\tema-1\tema-1\obj\Debug\tema-1.csprojResolveAssemblyReference.cache
+D:\ing\tema-1\tema-1\obj\Debug\tema-1.dll
+D:\ing\tema-1\tema-1\obj\Debug\tema-1.pdb
